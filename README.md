@@ -248,19 +248,22 @@ npm run dev
 
 ## 🔐 Login Page
 
-> *(Add Screenshot Here)*
+> <img width="803" height="340" alt="image" src="https://github.com/user-attachments/assets/6657454c-2033-4208-acca-7a4b8ee7feff" />
+
 
 ---
 
 ## 📊 Dashboard
 
-> *(Add Screenshot Here)*
+> <img width="801" height="347" alt="image" src="https://github.com/user-attachments/assets/78ba0771-97c3-4ed2-82a4-169e471d4aa1" />
+
 
 ---
 
 ## 🗺️ Optimized Route Map
 
-> *(Add Screenshot Here)*
+> <img width="806" height="345" alt="image" src="https://github.com/user-attachments/assets/f522298e-70a0-4e2e-8026-be01939c2089" />
+
 
 ---
 
