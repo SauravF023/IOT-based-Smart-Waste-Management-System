@@ -197,7 +197,7 @@ BIN_02,65,0,0
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/smart-waste-management.git
+git clone https://github.com/SauravF023/IOT-based-Smart-Waste-Management-System.git
 
 cd smart-waste-management
 ```
@@ -241,7 +241,8 @@ npm run dev
 
 ## 🏠 Landing Page
 
-> *(Add Screenshot Here)*
+> <img width="1919" height="823" alt="582235656-8a90e1e7-22dc-4be6-a043-441a4e23111d" src="https://github.com/user-attachments/assets/deb2d7a7-83e6-4221-842a-c70e504b7ab8" />
+
 
 ---
 
